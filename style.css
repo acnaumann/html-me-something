@@ -12,7 +12,7 @@ header {
     margin-bottom: 50px;
     }
 
-#statement {
+.statement {
     font-family: cursive;
 }
 
@@ -67,7 +67,7 @@ h5 {
     font-size: 15px;
 }
 
-#personal { 
+.personal { 
     height: 25%;
     width: 25%}
 
