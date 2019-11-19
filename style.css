@@ -71,15 +71,15 @@ h5 {
     height: 25%;
     width: 25%}
 
-#icon_athlinks { 
+.icon_athlinks { 
     height: 4%;
     width: 4%}
 
-#icon_main { 
+.icon_main { 
     height: 15%;
     width: 15%}
 
-#icon_social { 
+.icon_social { 
     height: 1.5%;
     width: 1.5%
 }
