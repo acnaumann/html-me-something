@@ -1,0 +1,87 @@
+.title {
+    font-size: 60px;
+    font-variant: small-caps;
+    padding-bottom: 50px;
+    }
+
+header {
+    background-color: lightslategray;
+    color: white;
+    width: 100%; 
+    padding: 50px 23px 30px 23px;
+    margin-bottom: 50px;
+    }
+
+#statement {
+    font-family: cursive;
+}
+
+header nav a {
+    margin: 25px;
+    color: white;
+    }
+
+#diamond {
+    
+    height: 1%;
+    width: 1%;
+}
+
+
+#header_nav {
+    color: white;
+    padding-right: 40px;
+}
+
+header p{
+    padding-bottom: 50px;
+    }
+
+
+header,
+main {
+    text-align: center;
+    }
+
+h2 {
+    font-variant: small-caps;
+    font-size: 40px;
+    }
+
+h3 {
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 15px;
+}
+
+#personal { 
+    height: 25%;
+    width: 25%}
+
+#icon_athlinks { 
+    height: 4%;
+    width: 4%}
+
+#icon_main { 
+    height: 15%;
+    width: 15%}
+
+#icon_social { 
+    height: 1.5%;
+    width: 1.5%
+}
+
+
